@@ -45,7 +45,7 @@ export default function ExperiencePage() {
           </div>
         </div>
         <div className="awards-panel">
-          <h2>Honors &amp; awards</h2>
+          <h2>Honors &amp; Awards</h2>
           <ul>
             {awards.map(([year, title, detail]) => (
               <li key={title}>
