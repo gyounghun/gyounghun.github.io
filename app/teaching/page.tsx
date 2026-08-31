@@ -15,7 +15,6 @@ export default function TeachingPage() {
       <SiteHeader active="teaching" />
       <PageHeading
         number="03"
-        eyebrow="POSTECH"
         title="Teaching"
       />
       <section className="content-page teaching-page">
