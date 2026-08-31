@@ -15,7 +15,6 @@ export default function ExperiencePage() {
       <SiteHeader active="experience" />
       <PageHeading
         number="02"
-        eyebrow="Experience"
         title="Employment and Honors"
       />
       <section className="content-page two-column experience-page">
