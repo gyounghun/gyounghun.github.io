@@ -16,7 +16,7 @@ export default function PublicationsPage() {
       <PageHeading
         number="01"
         eyebrow="Selected work"
-        title="Publications & preprints"
+        title="Publications & Preprints"
         description="Research articles on the Boltzmann equation, kinetic models, stability, and large-amplitude solutions."
       />
       <section className="content-page publications-page">
