@@ -17,7 +17,6 @@ export default function PublicationsPage() {
         number="01"
         eyebrow="Selected work"
         title="Publications & Preprints"
-        description="Research articles on the Boltzmann equation, kinetic models, stability, and large-amplitude solutions."
       />
       <section className="content-page publications-page">
         <div className="section-heading-row compact-heading">
