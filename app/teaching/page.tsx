@@ -7,7 +7,6 @@ export const dynamic = 'force-static';
 
 export const metadata: Metadata = {
   title: 'Teaching · Gyounghun Ko',
-  description: 'Courses taught by Gyounghun Ko at POSTECH.',
 };
 
 export default function TeachingPage() {
