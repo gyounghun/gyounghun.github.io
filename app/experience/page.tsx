@@ -16,7 +16,7 @@ export default function ExperiencePage() {
       <PageHeading
         number="02"
         eyebrow="Experience"
-        title="Appointments & recognition"
+        title="Employment and Honors"
         description="Academic appointments, education, and selected honors."
       />
       <section className="content-page two-column experience-page">
