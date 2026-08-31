@@ -21,7 +21,7 @@ export function SiteHeader({ active }: { active?: string }) {
       </nav>
       <a
         className="header-cv"
-        href="https://drive.google.com/file/d/12t26Ub4nb3SkVY38lxESAhifUkBZKyKR/view?usp=drive_link"
+        href="/CV_Gyounghun.pdf"
         target="_blank"
         rel="noreferrer"
       >
