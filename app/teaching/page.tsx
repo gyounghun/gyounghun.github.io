@@ -17,7 +17,6 @@ export default function TeachingPage() {
         number="03"
         eyebrow="POSTECH"
         title="Teaching"
-        description="Instruction and teaching assistance in analysis, calculus, differential equations, and partial differential equations."
       />
       <section className="content-page teaching-page">
         <div className="section-heading-row compact-heading">
