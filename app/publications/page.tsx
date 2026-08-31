@@ -7,7 +7,6 @@ export const dynamic = 'force-static';
 
 export const metadata: Metadata = {
   title: 'Publications · Gyounghun Ko',
-  description: 'Publications and preprints by Gyounghun Ko.',
 };
 
 export default function PublicationsPage() {
