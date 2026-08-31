@@ -25,7 +25,7 @@ export function SiteHeader({ active }: { active?: string }) {
         target="_blank"
         rel="noreferrer"
       >
-        CV <ArrowUpRight aria-hidden="true" size={14} />
+        CV <ArrowUpRight aria-hidden="true" size={16} />
       </a>
     </header>
   );
