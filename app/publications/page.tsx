@@ -15,7 +15,6 @@ export default function PublicationsPage() {
       <SiteHeader active="publications" />
       <PageHeading
         number="01"
-        eyebrow="Selected work"
         title="Publications & Preprints"
       />
       <section className="content-page publications-page">
