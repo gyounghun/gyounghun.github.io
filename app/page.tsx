@@ -15,7 +15,11 @@ export default function Home() {
             </p>
             <p className="hero-role">Postdoctoral Researcher</p>
           </div>
-          <aside className="portrait-slot" aria-label="Reserved space for a profile photograph" />
+          <img
+            className="portrait-slot"
+            src="/Electronic_Photo_GH.jpg"
+            alt="Gyounghun Ko"
+          />
         </div>
         <div className="hero-intro">
           <p>
