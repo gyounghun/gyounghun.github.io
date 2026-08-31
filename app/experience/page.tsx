@@ -21,7 +21,6 @@ export default function ExperiencePage() {
       />
       <section className="content-page two-column experience-page">
         <div>
-          <p className="eyebrow">Appointments</p>
           <h2>Employment</h2>
           <div className="timeline">
             <article>
@@ -47,7 +46,6 @@ export default function ExperiencePage() {
           </div>
         </div>
         <div className="awards-panel">
-          <p className="eyebrow">Recognition</p>
           <h2>Honors &amp; awards</h2>
           <ul>
             {awards.map(([year, title, detail]) => (
