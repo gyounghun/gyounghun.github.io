@@ -6,7 +6,7 @@ import { BackHome, ExternalLink, PageHeading, SiteFooter, SiteHeader } from '../
 export const dynamic = 'force-static';
 
 export const metadata: Metadata = {
-  title: 'Publications · Gyounghun Ko',
+  title: 'Publications · Gyounghun Ko'
 };
 
 export default function PublicationsPage() {
