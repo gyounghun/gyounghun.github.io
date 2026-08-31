@@ -23,10 +23,9 @@ export default function Home() {
         </div>
         <div className="hero-intro">
           <p>
-            I study nonlinear partial differential equations arising from kinetic models,
-            with a particular focus on the Boltzmann equation. Recently, I have been
-            interested in the hydrodynamic limit—the rigorous bridge connecting solutions
-            of the Boltzmann equation to the Euler and Navier–Stokes equations.
+            My current research interests are nonlinear partial differential equations of various kinetic models, especially the Boltzmann equation. 
+            The research topic include boundary problems, Cauchy problems, and stability problems, etc. 
+            Recently, I have interested in the hydrodynamic limit, which connects solutions of the Boltzmann equation to those of the Euler equation or Navier-Stokes equations.
           </p>
           <div className="hero-meta">
             <a href="http://english.amss.cas.cn/" target="_blank" rel="noreferrer">
